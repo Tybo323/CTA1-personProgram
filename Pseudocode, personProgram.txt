@@ -1,0 +1,17 @@
+BEGIN
+ 
+// Define variables for the fictional person's information 
+SET firstName TO "Tyler" 
+SET lastName TO "Butorac" 
+SET streetAddress TO "1234 Me Street" 
+SET city TO "Some City" 
+SET zipCode TO "12345" 
+
+// Display the information 
+PRINT "First Name: " + firstName 
+PRINT "Last Name: " + lastName 
+PRINT "Street Address: " + streetAddress 
+PRINT "City: " + city 
+PRINT "Zip Code: " + zipCode 
+
+END
